@@ -1,6 +1,6 @@
 # Dados geográficos: visualização de mapas com Folium
 
-Rápida descrição do objetivo de fazer esse projeto
+Explorar e visualizar dados geográficos de forma interativa com GeoPandas e Folium, incluindo marcadores personalizados, mapas de calor e camadas informativas.
 
 | :books: Vitrine.Dev |     |
 | -------------  | --- |
